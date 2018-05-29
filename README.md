@@ -1,4 +1,4 @@
-//*this is a stack operaton program*//
+//*this is a stack operation program*//
 
 
 #include<stdio.h>
